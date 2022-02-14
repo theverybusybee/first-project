@@ -4,3 +4,7 @@
   display: flex;
   justify-content: center;
 }
+
+.resources__logo:hover {
+  background-color: #1d1d1d;
+}
