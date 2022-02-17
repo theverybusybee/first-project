@@ -1,10 +1,10 @@
 .table {
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: space-between;
   align-content: space-between;
   flex-wrap: wrap;
   width: 1100px;
   min-height: 370px;
-  margin: 0;
-  padding: 0;
 }
